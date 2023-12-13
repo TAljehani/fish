@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InsanePets:jar">
+    <output-path>$PROJECT_DIR$/../../../../DmarMC/instances/test/plugins</output-path>
+    <root id="archive" name="InsanePets.jar">
+      <element id="module-output" name="InsanePets.main" />
+    </root>
+  </artifact>
+</component>

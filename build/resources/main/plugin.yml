@@ -1,0 +1,4 @@
+name: InsanePets
+version: '1.0-SNAPSHOT'
+main: dev.canable.insanepets.InsanePetsPlugin
+api-version: '1.8'
